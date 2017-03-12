@@ -43,6 +43,7 @@ From there, you can open the Chrome developer tools console and issue commands t
 
 ```javascript
 fizzBuzz = new FizzBuzz();
+
 for(i = 0; i <= 100; i++) {
   fizzBuzz.play(i);
 }
