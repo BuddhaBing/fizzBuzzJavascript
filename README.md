@@ -15,8 +15,6 @@
 * [Installation](#install)
 * [Usage](#usage)
 * [Tests](#tests)
-* [Heroku Demo](#demo)
-* [Screenshots](#screenshots)
 
 ## The Brief
 
