@@ -1,0 +1,27 @@
+{
+  "name": "fizzbuzz-js",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/treborb/fizzBuzzJavascript.svg?branch=master)](https://travis-ci.org/treborb/fizzBuzzJavascript) [![codecov](https://codecov.io/gh/treborb/fizzBuzzJavascript/branch/master/graph/badge.svg)](https://codecov.io/gh/treborb/fizzBuzzJavascript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treborb/fizzBuzzJavascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treborb/fizzBuzzJavascript/issues"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-jasmine": "^1.1.0",
+    "grunt-template-jasmine-istanbul": "^0.5.0",
+    "istanbul": "^0.4.5",
+    "jasmine": "^2.5.3"
+  },
+  "homepage": "https://github.com/treborb/fizzBuzzJavascript#readme"
+}
